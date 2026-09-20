@@ -1,0 +1,40 @@
+h1{
+    color: blueviolet;
+}
+.title1{
+    color: brown;
+}
+#title2{
+    color: aqua;
+}
+h1{
+    color: chartreuse;
+}
+p{
+    color: red;
+}
+#p2{
+    color: black;
+}
+
+#divg{
+    display: flex;
+}
+.div1{
+    width: 1400px;
+    height: 50px;
+    background-color: bisque;
+    padding:40px;
+    margin:40px;
+
+}
+#p3{
+    color: coral;
+}
+.div2{
+    width: 1400px;
+    height: 50px;
+    background-color: blue;
+    padding:40px;
+    margin:40px;
+}
