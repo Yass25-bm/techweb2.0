@@ -1,0 +1,46 @@
+button:hover{
+    background-color: bisque;
+    color: black;
+    padding: 4px;
+    border-radius: 10px;
+}
+p:first-child{
+    color: red;
+}
+p:last-child{
+    color: pink;
+}
+p::first-letter{
+    background-color: darkolivegreen;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.p1{
+    background-color: aquamarine;
+    position: relative;
+    border: solid 2px;
+    width:300px;
+    height: 200px;
+}
+.p2{
+    background-color: lightcoral;
+    position: relative;
+    border: solid 2px;
+    width:300px;
+    height: 200px;
+
+}
+.p3{
+    background-color: lightsteelblue;
+    position: relative;
+    border: solid 2px;
+    width:300px;
+    height: 200px;
+}
+li:nth-child(even){
+    background-color: lightcoral;
+}
